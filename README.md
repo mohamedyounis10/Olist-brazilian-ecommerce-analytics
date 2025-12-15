@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>
 
-# Brazilian E‑Commerce Public Olist – Data Mining Project 📊
+# Brazilian E‑Commerce Public Olist – Project 📊
 
 ## 1. Overview
 

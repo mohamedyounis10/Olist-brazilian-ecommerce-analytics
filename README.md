@@ -46,13 +46,8 @@ Project/
 
 ## 3. Screenshots & Visuals 🖼️
 
-> Replace the image paths below with your own (GitHub will show them automatically once you push the images).
-
 - **Main Dashboard Overview**
-
-  ```markdown
-  ![Main Dashboard](images/main-dashboard.png)
-  ```
+<img width="1276" height="717" alt="Screenshot 2025-12-15 115840" src="https://github.com/user-attachments/assets/1df9f8cd-32f6-40b7-aa4f-4a327f99957a" />
 
 - **Sales by Category & State**
 
@@ -176,17 +171,9 @@ Then open `notebook.ipynb`, ensure the paths to the `Datasets/` folder are corre
 
 ---
 
-## 9. Results & Insights (Summary – to be customized)
+## 9. Results & Insights (Summary)
 
-> Replace this section with your specific findings.
-
-You can briefly describe here:
-
-- Main states and regions with the highest order volume.
-- Best‑selling product categories and their contribution to revenue.
-- Average delivery time and delay compared to estimated delivery date.
-- Relationship between delivery performance and customer review scores.
-- Recommendations to improve customer satisfaction and logistics.
+<img width="925" height="808" alt="image" src="https://github.com/user-attachments/assets/bc7d84c8-d7d3-4880-9b6f-a4d92ca425fa" />
 
 ---
 

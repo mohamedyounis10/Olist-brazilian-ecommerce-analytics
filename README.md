@@ -1,4 +1,4 @@
-## 🚗 Olist Brazilian E‑Commerce Analytics & Price Dashboard
+# Brazilian E‑Commerce Public Olist – Project 📊
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg">
@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow.svg">
   <img src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>
-
-# Brazilian E‑Commerce Public Olist – Project 📊
 
 ## 1. Overview
 

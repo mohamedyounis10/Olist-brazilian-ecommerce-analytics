@@ -49,25 +49,14 @@ Project/
 - **Main Dashboard Overview**
 <img width="1276" height="717" alt="Screenshot 2025-12-15 115840" src="https://github.com/user-attachments/assets/1df9f8cd-32f6-40b7-aa4f-4a327f99957a" />
 
-- **Sales by Category & State**
-
-  ```markdown
-  ![Sales by Category and State](images/sales-by-category-state.png)
-  ```
+- **Top 10 Product Categories (by Number of Unique Items)**
+<img width="1140" height="547" alt="image" src="https://github.com/user-attachments/assets/2be7615a-37ff-40fb-8ac3-590ef56a6d15" />
 
 - **Delivery Performance & Delays Map**
-
-  ```markdown
-  ![Delivery Performance Map](images/delivery-performance-map.png)
-  ```
+<img width="996" height="547" alt="image" src="https://github.com/user-attachments/assets/f4699abf-f54f-4b28-bf8b-43441de8235f" />
 
 - **Customer Reviews & Ratings**
-
-  ```markdown
-  ![Customer Reviews](images/customer-reviews.png)
-  ```
-
-> You can create a folder named `images/` in your repository and add your exported PNG screenshots there with matching file names.
+<img width="558" height="581" alt="image" src="https://github.com/user-attachments/assets/88aa2caa-4dab-4243-84cf-b565df13e3d0" />
 
 ---
 

@@ -194,9 +194,9 @@ You can briefly describe here:
 
 This project was developed collaboratively as a team.
 
-- **[Mohamed Younis]** – [GitHub Profile](https://github.com/mohamedyounis10)
-- **[Jovanie Hanie]** – [GitHub Profile](https://github.com/JovanieHanie)
-- **[Abdelrahman Omar]** – [GitHub Profile](https://github.com/mohamedyounis10)
+- **Mohamed Younis** – [GitHub Profile](https://github.com/mohamedyounis10)
+- **Jovanie Hanie** – [GitHub Profile](https://github.com/JovanieHanie)
+- **Abdelrahman Omar** – [GitHub Profile](https://github.com/mohamedyounis10)
 
 ---
 
@@ -204,8 +204,8 @@ This project was developed collaboratively as a team.
 
 We would like to express our sincere gratitude to:
 
-- **Dr. [Mohamed Badawy]** – for the continuous guidance, support, and valuable feedback throughout the Data Mining course and this project.  
-- **Eng. [Hosny Hossam]** – for the technical support, practical advice, and help in implementing the analytical and visualization techniques.
+- **Dr. Mohamed Badawy** – for the continuous guidance, support, and valuable feedback throughout the Data Mining course and this project.  
+- **Eng. Hosny Hossam** – for the technical support, practical advice, and help in implementing the analytical and visualization techniques.
 
 ---
 

@@ -1,8 +1,18 @@
+## 🚗 Olist Brazilian E‑Commerce Analytics & Price Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg">
+  <img src="https://img.shields.io/badge/Pandas-2.0+-orange.svg">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg">
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow.svg">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+</p>
+
 # Brazilian E‑Commerce Public Olist – Data Mining Project 📊
 
 ## 1. Overview
 
-This project presents an end‑to‑end data mining and business analytics study on the **Brazilian E‑Commerce Public Olist** dataset. 
+This project presents an end‑to‑end data analytics and business insights study on the **Brazilian E‑Commerce Public Olist** dataset. 
 The goal is to explore customer behavior, seller performance, delivery efficiency, payment patterns, and review scores, and to present the findings through a clear and interactive **Power BI dashboard**.
 
 This work was completed as part of the **Data Mining** course. 🎓
@@ -15,7 +25,7 @@ This work was completed as part of the **Data Mining** course. 🎓
 Project/
 ├─ Brazilian E-Commerce Public Olist.pdf        # Dataset / project description (reference)
 ├─ Merge _ Schema.png                           # ERD / schema of table relationships
-├─ notebook.ipynb                               # Main data mining & EDA notebook
+├─ notebook.ipynb                               # Main data analytics & EDA notebook
 │
 ├─ Datasets/                                    # Raw CSV files from Olist
 │  ├─ olist_customers_dataset.csv
@@ -36,7 +46,39 @@ Project/
 
 ---
 
-## 3. Dataset
+## 3. Screenshots & Visuals 🖼️
+
+> Replace the image paths below with your own (GitHub will show them automatically once you push the images).
+
+- **Main Dashboard Overview**
+
+  ```markdown
+  ![Main Dashboard](images/main-dashboard.png)
+  ```
+
+- **Sales by Category & State**
+
+  ```markdown
+  ![Sales by Category and State](images/sales-by-category-state.png)
+  ```
+
+- **Delivery Performance & Delays Map**
+
+  ```markdown
+  ![Delivery Performance Map](images/delivery-performance-map.png)
+  ```
+
+- **Customer Reviews & Ratings**
+
+  ```markdown
+  ![Customer Reviews](images/customer-reviews.png)
+  ```
+
+> You can create a folder named `images/` in your repository and add your exported PNG screenshots there with matching file names.
+
+---
+
+## 4. Dataset
 
 - **Name**: Brazilian E‑Commerce Public Olist  
 - **Source**: Public e‑commerce dataset (commonly available on open data platforms such as Kaggle).  
@@ -50,7 +92,7 @@ Project/
 
 ---
 
-## 4. Objectives 🎯
+## 5. Objectives 🎯
 
 - **Customer analysis**: Understand customer distribution, demand, and behavior across regions.
 - **Sales & product analysis**: Identify top‑performing categories, products, and trends.
@@ -61,7 +103,7 @@ Project/
 
 ---
 
-## 5. Methodology
+## 6. Methodology
 
 The main steps implemented in `notebook.ipynb` include:
 
@@ -87,9 +129,9 @@ The main steps implemented in `notebook.ipynb` include:
 
 ---
 
-## 6. How to Run the Notebook 💻
+## 7. How to Run the Notebook 💻
 
-### 6.1. Prerequisites
+### 7.1. Prerequisites
 
 - **Python 3.x**
 - Recommended libraries (adjust to your environment / notebook content):
@@ -100,7 +142,7 @@ The main steps implemented in `notebook.ipynb` include:
   - `scikit-learn` (if any predictive models are used)
   - `jupyter` or `jupyterlab`
 
-### 6.2. Setup (example)
+### 7.2. Setup (example)
 
 ```bash
 # (Optional) create and activate a virtual environment
@@ -111,7 +153,7 @@ venv\Scripts\activate  # on Windows
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
-### 6.3. Run
+### 7.3. Run
 
 ```bash
 jupyter notebook
@@ -121,7 +163,7 @@ Then open `notebook.ipynb`, ensure the paths to the `Datasets/` folder are corre
 
 ---
 
-## 7. How to Use the Power BI Dashboard 📈
+## 8. How to Use the Power BI Dashboard 📈
 
 1. Install **Power BI Desktop**.
 2. Open the file:
@@ -136,7 +178,7 @@ Then open `notebook.ipynb`, ensure the paths to the `Datasets/` folder are corre
 
 ---
 
-## 8. Results & Insights (Summary – to be customized)
+## 9. Results & Insights (Summary – to be customized)
 
 > Replace this section with your specific findings.
 
@@ -150,7 +192,7 @@ You can briefly describe here:
 
 ---
 
-## 9. Team 🤝
+## 10. Team 🤝
 
 This project was developed collaboratively as a team.
 
@@ -163,7 +205,7 @@ This project was developed collaboratively as a team.
 
 ---
 
-## 10. Acknowledgments 🙏
+## 11. Acknowledgments 🙏
 
 We would like to express our sincere gratitude to:
 
@@ -172,6 +214,6 @@ We would like to express our sincere gratitude to:
 
 ---
 
-## 11. License
+## 12. License
 
 You may add a license section here (e.g., MIT License) or keep the project private depending on your course and university requirements.

@@ -172,7 +172,7 @@ This project was developed collaboratively as a team.
 
 - **Mohamed Younis** – [GitHub Profile](https://github.com/mohamedyounis10)
 - **Jovanie Hanie** – [GitHub Profile](https://github.com/JovanieHanie)
-- **Abdelrahman Omar** – [GitHub Profile](https://github.com/mohamedyounis10)
+- **Abdelrahman Omar** – [GitHub Profile](https://github.com/abdelrahmnomar)
 
 ---
 
